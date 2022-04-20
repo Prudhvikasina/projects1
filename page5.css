@@ -1,0 +1,40 @@
+.container{
+    text-align: right ;
+    margin-top: -855px;
+    padding-left: 163px;
+    margin-inline-end: 200px;
+}
+h4{
+    text-align: right;
+    color: red;
+    margin-right: 367px;
+}
+.demo{
+    text-align: right;
+    margin-top: 2px;
+    float: right;
+    width: 700px;
+    padding-right: 66px;  
+    margin-top: 49px;
+}
+.form-check {
+    float: left;
+}
+.d-grid{
+    margin-top: 20px;
+}
+ul{
+    float: left;
+    margin-top: 20px;
+}
+.footer  p{
+    
+    margin-top: 600px;
+    float: right;
+}
+p{
+    margin-top: 200px;
+}
+a{
+    color: red;
+}
